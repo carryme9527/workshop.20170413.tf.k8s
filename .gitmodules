@@ -1,0 +1,6 @@
+[submodule "k8s/workshop413"]
+	path = k8s/workshop413
+	url = https://github.com/kairen/workshop413
+[submodule "k8s/ha-kube-ansible"]
+	path = k8s/ha-kube-ansible
+	url = https://github.com/kairen/ha-kube-ansible.git
