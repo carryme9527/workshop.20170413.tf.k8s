@@ -1,0 +1,3 @@
+#! /bin/bash
+
+venv/bin/tensorboard --logdir=/tmp/tensorflow/mnist/logs/mnist_with_summaries
